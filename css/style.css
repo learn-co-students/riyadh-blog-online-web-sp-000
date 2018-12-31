@@ -26,6 +26,10 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
+  color: black;
+}
+
+.whiteheader {
   color: #fff;
 }
 
